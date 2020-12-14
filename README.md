@@ -1,0 +1,2 @@
+# circlecitestingrepo
+Setting up circleci
